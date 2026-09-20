@@ -1,0 +1,6 @@
+{
+  "name": "Hóa Học Cô Phượng - THCS Bắc Đông Quan",
+  "description": "Nền tảng học tập Hóa học THCS & KHTN Cô Trịnh Thị Phượng - Bứt phá điểm số, ôn thi vào lớp 10 và bồi dưỡng HSG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
